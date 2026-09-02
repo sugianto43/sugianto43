@@ -29,6 +29,6 @@ Frontend/Fullstack Engineer with 4+ years shipping production React, Next.js, an
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sugianto43&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugianto43&layout=compact&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/sugianto43?label=followers&style=flat&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sugianto43&label=public%20repos&query=%24.public_repos&color=blue&logo=github" alt="Public repos" />
 </p>
